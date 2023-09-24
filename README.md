@@ -3,11 +3,11 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 
 [💬 Suggest idea](https://github.com/gnat/awesome-surreal/discussions/new?category=ideas) or [✏️ add to this list](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
-## Examples / Starter Projects
+## Example Projects
 * Go + htmx
   * [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) by ⭐ [David Wilde](https://github.com/davidwilde)
 
-## Plugins / Scripts
+## Add-on Functions (Plugins)
 * [✏️ Add yours](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
 ## Companion Projects
@@ -16,9 +16,9 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 * [hyperscript](https://hyperscript.org/) - Locality of Behavior scripting for htmx, similar to Surreal, 1st party [Big Sky Software](https://github.com/bigskysoftware) project.
 
 
-## Locality of Behavior Resources
+## Locality of Behavior Movement
 * [Original article](https://htmx.org/essays/locality-of-behaviour/) by ⭐ [Carson Gross](https://github.com/1cg) at [Big Sky Software](https://github.com/bigskysoftware)
 * [GitHub Topic](https://github.com/topics/locality-of-behavior)
 
-## No Build Step, No Dependencies Resources
+## No Build Step, No Dependencies Movement
 * [No Build Step](https://htmx.org/essays/no-build-step/) by ⭐ [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
