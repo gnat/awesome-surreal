@@ -13,7 +13,7 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 ## Companion Projects
 * [css-scope-inline](https://github.com/gnat/css-scope-inline) - Surreal for your CSS `<style>` tags
 * [htmx](https://htmx.org/) - Surreal was made to work with htmx
-* [hyperscript](https://hyperscript.org/) - Locality of Behavior scripting compliment to htmx, similar to Surreal, first party [Big Sky Software](https://github.com/bigskysoftware) project.
+* [hyperscript](https://hyperscript.org/) - Locality of Behavior scripting for htmx, similar to Surreal, 1st party [Big Sky Software](https://github.com/bigskysoftware) project.
 
 
 ## Locality of Behavior Resources
