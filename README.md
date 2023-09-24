@@ -20,5 +20,5 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 * [Original article](https://htmx.org/essays/locality-of-behaviour/) by ⭐ [Carson Gross](https://github.com/1cg) at [Big Sky Software](https://github.com/bigskysoftware)
 * [GitHub Topic](https://github.com/topics/locality-of-behavior)
 
-## No Build Step, No Dependencies Movement
+## No Build Step Movement
 * [No Build Step](https://htmx.org/essays/no-build-step/) by ⭐ [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
