@@ -16,9 +16,9 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 * [hyperscript](https://hyperscript.org/) - Locality of Behavior scripting for htmx, similar to Surreal, 1st party [Big Sky Software](https://github.com/bigskysoftware) project.
 
 
-## Locality of Behavior Movement
+## Locality of Behavior development 
 * [Original article](https://htmx.org/essays/locality-of-behaviour/) by ⭐ [Carson Gross](https://github.com/1cg) at [Big Sky Software](https://github.com/bigskysoftware)
 * [GitHub Topic](https://github.com/topics/locality-of-behavior)
 
-## No Build Step Movement
+## No Build Step development
 * [No Build Step](https://htmx.org/essays/no-build-step/) by ⭐ [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
