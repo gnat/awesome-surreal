@@ -1,5 +1,5 @@
 # 🗿 Awesome Surreal
-A curated list of awesome [Surreal](https://github.com/gnat/surreal) examples, plugins, resources and other shiny things.
+A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) examples, plugins, resources and other shiny things.
 
 [💬 Suggest idea](https://github.com/gnat/awesome-surreal/discussions/new?category=ideas) or [✏️ add to this list](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
