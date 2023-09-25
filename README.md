@@ -22,3 +22,9 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 
 ## No Build Step development
 * [No Build Step](https://htmx.org/essays/no-build-step/) by ⭐ [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
+
+## Videos
+* 🎥 [Avoid Complexity](https://www.youtube.com/watch?v=CMTFMINdcmg)
+* 🎥 [Reusability is a Myth](https://www.youtube.com/watch?v=R9NwRUIXpCU)
+* 🎥 [Date Picker Implementation](https://www.youtube.com/watch?v=EsvShDm8h6Y)
+
