@@ -3,13 +3,13 @@ A curated list of awesome 🗿 [Surreal](https://github.com/gnat/surreal) exampl
 
 💬 [Suggest idea](https://github.com/gnat/awesome-surreal/discussions/new?category=ideas) or ✏️ [add to this list](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
-## Example Projects
-* [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) (Go + surreal + htmx) by [David Wilde](https://github.com/davidwilde)
-  * Example HTMX web apps using Go and Surreal.  
-
 ## Platforms
 * [inox](https://github.com/inoxlang/inox/) (Go + surreal + css-scope-inline + htmx) by [GraphR00t](https://github.com/GraphR00t)
   * Inox is a single-binary platform that will ultimately contain all you need to develop, test, and deploy web apps.
+
+## Example Projects
+* [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) (Go + surreal + htmx) by [David Wilde](https://github.com/davidwilde)
+  * Example HTMX web apps using Go and Surreal.  
 
 ## Surreal Plugins
 * ✏️ [Add yours](https://github.com/gnat/awesome-surreal/edit/main/README.md)
