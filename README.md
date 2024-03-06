@@ -1,14 +1,18 @@
 # 🗿 Awesome Surreal
-A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) examples, plugins, resources and other shiny things.
+A curated list of awesome 🗿 [Surreal](https://github.com/gnat/surreal) examples, plugins, resources and other shiny things.
 
-[💬 Suggest idea](https://github.com/gnat/awesome-surreal/discussions/new?category=ideas) or [✏️ add to this list](https://github.com/gnat/awesome-surreal/edit/main/README.md)
+💬 [Suggest idea](https://github.com/gnat/awesome-surreal/discussions/new?category=ideas) or ✏️ [add to this list](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
 ## Example Projects
-* Go + htmx
-  * [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) by ⭐ [David Wilde](https://github.com/davidwilde)
+* [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) (Go + surreal + htmx) by [David Wilde](https://github.com/davidwilde)
+  * Example HTMX web apps using Go and Surreal.  
 
-## Add-on Functions (Plugins)
-* [✏️ Add yours](https://github.com/gnat/awesome-surreal/edit/main/README.md)
+## Frameworks
+* [inox](https://github.com/inoxlang/inox/) (Go + surreal + css-scope-inline + htmx) by [GraphR00t](https://github.com/GraphR00t)
+  * Inox is a single-binary platform that will ultimately contain all you need to develop, test, and deploy web apps.
+
+## Surreal Plugins
+* ✏️ [Add yours](https://github.com/gnat/awesome-surreal/edit/main/README.md)
 
 ## Companion Projects
 * [css-scope-inline](https://github.com/gnat/css-scope-inline) - Surreal for your CSS `<style>` tags
@@ -17,11 +21,11 @@ A curated list of awesome [🗿 Surreal](https://github.com/gnat/surreal) exampl
 
 
 ## Locality of Behavior development 
-* [Original article](https://htmx.org/essays/locality-of-behaviour/) by ⭐ [Carson Gross](https://github.com/1cg) at [Big Sky Software](https://github.com/bigskysoftware)
+* [Original article](https://htmx.org/essays/locality-of-behaviour/) by [Carson Gross](https://github.com/1cg) at [Big Sky Software](https://github.com/bigskysoftware)
 * [GitHub Topic](https://github.com/topics/locality-of-behavior)
 
 ## No Build Step development
-* [No Build Step](https://htmx.org/essays/no-build-step/) by ⭐ [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
+* [No Build Step](https://htmx.org/essays/no-build-step/) by [Alexander Petros](https://github.com/alexpetros) at [Big Sky Software](https://github.com/bigskysoftware)
 
 ## Videos
 * 🎥 [Avoid Complexity](https://www.youtube.com/watch?v=CMTFMINdcmg)
