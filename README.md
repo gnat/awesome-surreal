@@ -7,7 +7,7 @@ A curated list of awesome 🗿 [Surreal](https://github.com/gnat/surreal) exampl
 * [surreal-htmx-go](https://github.com/davidwilde/surreal-htmx-go) (Go + surreal + htmx) by [David Wilde](https://github.com/davidwilde)
   * Example HTMX web apps using Go and Surreal.  
 
-## Frameworks
+## Platforms
 * [inox](https://github.com/inoxlang/inox/) (Go + surreal + css-scope-inline + htmx) by [GraphR00t](https://github.com/GraphR00t)
   * Inox is a single-binary platform that will ultimately contain all you need to develop, test, and deploy web apps.
 
